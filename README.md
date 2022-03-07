@@ -2,7 +2,7 @@
 
 Coded checkers AI using minimax alogrithm with the help of pygame module in Python .
 
-
+https://user-images.githubusercontent.com/97227844/157064079-9767b9ef-d0d5-48d2-b745-88f9b045f38c.mp4
 
 ## Reference 
 
